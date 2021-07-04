@@ -14,8 +14,8 @@ Radio in [Imteyaz](https://t.me/AsmSafone) Channel.
 or running [genStr.py](genStr.py) by yourself on heroku run console.
 - Then Enable the worker after deploy the project on Heroku Resources Tab.
 
-
-## Heroku Vars
+Generate session 
+## Heroku Vars https://replit.com/@Imteyazking01/Radio-Player-Live-Streaming-1#README.md
 
 1. `API_ID` : Get From my.telegram.org
 2. `API_HASH` : Get from my.telegram.org
