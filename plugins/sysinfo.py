@@ -1,6 +1,6 @@
 # AsmSafone
 # Radio Player
-# Join @AsmSafone
+# Join @King_fighter_Bot_support
 
 from datetime import datetime
 
