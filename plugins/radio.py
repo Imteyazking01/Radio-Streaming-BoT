@@ -1,6 +1,6 @@
-# AsmSafone
+# Imteyaz
 # Radio Player
-# Join @AsmSafone
+# Join @King_fighter_Bot_support
 
 import signal
 
