@@ -1,10 +1,10 @@
-# AsmSafone
+# Imteyaz_king
 # Radio Player
-# Join @AsmSafone
+# Join  @King_fighter_Bot_support
 
 """
 Generate Pyrogram Session String and send it to
-Saved Messages of your Telegram account
+Saved Messages of your Telegram account 
 
 requirements:
 - Pyrogram
@@ -25,7 +25,7 @@ async def main():
         await app.send_message(
             "me",
             "**Pyrogram Session String**:\n\n"
-            f"`{await app.export_session_string()}`\n\n**Join Updates Channel @AsmSafone!**"
+            f"`{await app.export_session_string()}`\n\n**Join Updates Channel @King_fighter_Bot_support!**"
         )
         print(
             "Done, your Pyrogram session string has been sent to "
