@@ -1,14 +1,14 @@
-# Telegram Radio Player UserBot
+# Telegram  Radio Player UserBot made by KING FIGHTER
 
 A Telegram UserBot to Play Radio in Channel or Group Voice Chats.
 
 This is also the source code of the userbot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel.
+Radio in [Imteyaz](https://t.me/AsmSafone) Channel.
 
 
 ## Deploy to Heroku (The Easy Way)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imteyazking01/Radio-Player-Live-Streaming)
 
 - Generate pyrogram session string by [String Session Generator Bot](http://t.me/genStr_robot) 
 or running [genStr.py](genStr.py) by yourself on heroku run console.
@@ -37,7 +37,7 @@ or running [genStr.py](genStr.py) by yourself on heroku run console.
 ## Run On VPS (The Hard Way)
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayer
+$ git clone  https://github.com/Imteyazking01/Radio-Player-Live-Streaming
 $ cd RadioPlayer
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
@@ -52,5 +52,5 @@ $ python3 main.py
 
 ## Credits
 
-- AsmSafone [Dev]
+- Imteyaz [Dev]
 - MarshalX [For tgcalls]
